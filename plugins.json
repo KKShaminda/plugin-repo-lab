@@ -4,6 +4,10 @@
     "entry": "./plugins/sample-plugin/plugin.js"
   },
   {
+    "name": "kaveesha Plugin",
+    "entry": "./plugins/kaveesha-plugin/plugin.js"
+  },
+  {
     "name": "new Plugin",
     "entry": "./plugins/new-plugin/plugin.js"
   }
